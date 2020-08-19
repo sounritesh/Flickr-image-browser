@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Pre-requisites
 
-* Android Studio
+* [Android Studio](https://developer.android.com/studio/?gclid=CjwKCAjwm_P5BRAhEiwAwRzSO-kngmGcB0kQsBo-ZzUP4jkoQQB118LUtLDJ9symy2GjFia3T7IUMBoCbK0QAvD_BwE&gclsrc=aw.ds)
 * Android Sdk
 
 #### Dependencies
@@ -25,7 +25,7 @@ implementation 'com.squareup.picasso:picasso:2.5.2'
 implementation 'com.google.android.material:material:1.1.0'
 ```
 
-Note: Check for the latest version of the dependencies before adding them.
+Note: Check for the latest versions of the dependencies before adding them.
 
 ## Author
 * [Ritesh Soun](https://github.com/sounritesh)
